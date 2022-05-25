@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Adonay Mejia/AndroidStudioProjects/AlcaldiaApp/app/src/main/res/drawable/ic_baseline_diversity_3_24.xml" value="0.141" />
+        <entry key="..\:/Users/Adonay Mejia/AndroidStudioProjects/AlcaldiaApp/app/src/main/res/drawable/ic_baseline_import_contacts_24.xml" value="0.141" />
+        <entry key="..\:/Users/Adonay Mejia/AndroidStudioProjects/AlcaldiaApp/app/src/main/res/drawable/ic_baseline_show_chart_24.xml" value="0.141" />
+        <entry key="..\:/Users/Adonay Mejia/AndroidStudioProjects/AlcaldiaApp/app/src/main/res/drawable/recyclerview_bg.xml" value="0.1" />
+        <entry key="..\:/Users/Adonay Mejia/AndroidStudioProjects/AlcaldiaApp/app/src/main/res/drawable/user_bg.xml" value="0.1" />
+        <entry key="..\:/Users/Adonay Mejia/AndroidStudioProjects/AlcaldiaApp/app/src/main/res/layout/activity_evonto_social_details.xml" value="0.1" />
+        <entry key="..\:/Users/Adonay Mejia/AndroidStudioProjects/AlcaldiaApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Adonay Mejia/AndroidStudioProjects/AlcaldiaApp/app/src/main/res/layout/eventosocial_item.xml" value="0.1" />
+        <entry key="..\:/Users/Adonay Mejia/AndroidStudioProjects/AlcaldiaApp/app/src/main/res/menu/bottom_navigation.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
