@@ -56,6 +56,7 @@ public class MainActivity extends AppCompatActivity implements EventoSocialAdapt
                         startActivity(new Intent(MainActivity.this, MainActivity.class));
                         return true;
                     case R.id.Ir_DesaEcon:
+                        startActivity(new Intent(MainActivity.this, DesarrolloEconomicoActivity.class));
                         return true;
                     case R.id.Ir_Revista:
                         return true;

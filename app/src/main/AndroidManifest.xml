@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AlcaldiaApp">
         <activity
+            android:name=".DesarrolloEconomicoActivity"
+            android:exported="false" />
+        <activity
             android:name=".EvontoSocialDetailsActivity"
             android:exported="false" />
         <activity
